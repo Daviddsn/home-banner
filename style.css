@@ -42,7 +42,7 @@ header span  a{
 }
 .banner::before{
     content: " ";
-    background-image: url("home-banner/img/bg.jpg");
+    background-image: url("bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
