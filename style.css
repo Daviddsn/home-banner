@@ -42,7 +42,7 @@ header span  a{
 }
 .banner::before{
     content: " ";
-    background-image: url("/img/bg.jpg");
+    background-image: url("https://daviddsn.github.io/img/bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
